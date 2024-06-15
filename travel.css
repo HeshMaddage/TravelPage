@@ -222,14 +222,14 @@ section {
     width: 100%;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    background: #ede8e8;
+    background:  #211d1d;
 
 }
 
 
 .label {
     font-size: 1.1rem;
-    color: #666;
+    color: #42b6ab;;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2em;
@@ -295,14 +295,14 @@ section {
     width: 100%;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    background: #e9e0e0;
+    background: #e4d7d7;
 }
 
 .contact-us {
     width: 100%;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    background: #ede8e8;
+    background: #1e1d1d;
 
 }
 
@@ -324,7 +324,7 @@ section {
     overflow: hidden;
     border-radius: .8rem;
     position: relative;
-    background-color: #666;
+    background-color: rgba(5, 5, 5, 0.8);
     color: white;
     justify-content: center;
 
@@ -363,10 +363,10 @@ section {
 }
 
 .quote {
-    color: #42b6ab;
+    color: #ffffff;
     padding: 0px 0px;
     font-weight: 900;
-    font-size: 3em;
+    font-size: 2.5em;
 
 }
 
@@ -384,17 +384,17 @@ section {
     padding: 20px 10px;
     border-radius: 10px;
     font-size: 1.75rem;
-    color: #666;
+    color: #ffffff;
 }
 
 .content-inside p {
 
-    color: #666;
+    color: #ffffff;
     font-size: 1rem;
 }
 .footer{
     width: 100%;
-    background: #e9e0e0;
+    background: #e4d7d7;
     padding: 2rem ;
     text-align: center;
 
